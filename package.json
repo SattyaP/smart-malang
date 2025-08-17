@@ -9,10 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-google-maps/api": "^2.20.7",
     "daisyui": "^5.0.50",
+    "mapbox-gl": "^3.14.0",
     "next": "15.4.6",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "react-map-gl": "^7.0.15"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.11",
